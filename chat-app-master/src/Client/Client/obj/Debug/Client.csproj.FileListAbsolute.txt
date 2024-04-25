@@ -1,0 +1,10 @@
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\bin\Debug\Client.exe.config
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\bin\Debug\Client.exe
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\bin\Debug\Client.pdb
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.exe
+C:\Users\ybelo\Downloads\chat-app-master\src\Client\Client\obj\Debug\Client.pdb
